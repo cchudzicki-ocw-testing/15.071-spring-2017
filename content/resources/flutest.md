@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: FluTest.csv
 uid: 7dab7b06-43ff-fe3c-6034-0a93323d2a0a
+video_metadata:
+  youtube_id: null
 ---
