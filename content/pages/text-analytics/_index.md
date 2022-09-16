@@ -1,9 +1,12 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: 5 Text Analytics
 uid: 5847ad87-9afe-cf3e-9b93-c20cffe87acf
+video_metadata:
+  youtube_id: null
 ---
 
 *   {{% resource_link 1ec4de19-6088-678e-c051-d69160bc733a "BackState Data Revisted" %}}

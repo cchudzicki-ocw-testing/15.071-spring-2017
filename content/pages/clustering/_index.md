@@ -1,9 +1,12 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: 6 Clustering
 uid: 6e343503-94a0-f948-51f4-8f324b5f657f
+video_metadata:
+  youtube_id: null
 ---
 
 *   {{% resource_link f9baad34-7f95-6b6f-8608-66551433d510 "BackAutomating Reviews in Medicine" %}}

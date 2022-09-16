@@ -1,9 +1,12 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: 8 Linear Optimization
 uid: daafaa58-867c-9765-f1c4-c60a9c0ed426
+video_metadata:
+  youtube_id: null
 ---
 
 *   {{% resource_link 056c6914-368d-638a-59e4-cebbc43acfe5 "BackAssignment 7" %}}

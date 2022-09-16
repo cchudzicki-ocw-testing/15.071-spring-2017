@@ -1,9 +1,12 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: 3 Logistic Regression
 uid: c4464cf4-9ddb-1a4b-c78c-faa6f93b74de
+video_metadata:
+  youtube_id: null
 ---
 
 *   {{% resource_link 609cf352-3750-f69e-cb54-c706f04a68c5 "BackState Data" %}}

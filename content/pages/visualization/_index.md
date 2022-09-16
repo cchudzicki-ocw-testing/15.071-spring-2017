@@ -1,9 +1,12 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: 7 Visualization
 uid: ab87d151-cf8c-fe95-c873-e816df164d38
+video_metadata:
+  youtube_id: null
 ---
 
 *   {{% resource_link 940f7353-62c6-3a66-1b04-174a40036c29 "BackAssignment 6" %}}

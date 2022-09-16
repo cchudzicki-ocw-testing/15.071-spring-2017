@@ -1,9 +1,12 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: 4 Trees
 uid: 19c8cf92-e31d-034a-1ea1-5ad53194d892
+video_metadata:
+  youtube_id: null
 ---
 
 *   {{% resource_link 3b462833-7389-a83d-6609-7f7597856e56 "BackPredicting the Baseball World Series Champion" %}}

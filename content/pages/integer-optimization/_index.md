@@ -1,9 +1,12 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: 9 Integer Optimization
 uid: db42b40a-d705-f431-a7e2-3a1d11cec341
+video_metadata:
+  youtube_id: null
 ---
 
 *   {{% resource_link 6a5d4bdb-70f4-48f5-8697-82dbaa8537a8 "BackAssignment 8" %}}

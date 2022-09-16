@@ -1,9 +1,12 @@
 ---
 content_type: page
+description: This section contains a table that lists the topics and course materials.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Unit Index
 uid: 883b00d7-5d4b-ac8a-589c-8fb34101f032
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

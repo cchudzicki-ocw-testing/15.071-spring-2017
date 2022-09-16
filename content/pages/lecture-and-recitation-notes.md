@@ -1,9 +1,13 @@
 ---
 content_type: page
+description: This section contains the lecture slides that go along with the video
+  content.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Lecture and Recitation Notes
 uid: 6d991d2d-9834-a247-946a-f6ed255c2dcf
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

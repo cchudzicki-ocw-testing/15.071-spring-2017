@@ -1,9 +1,12 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: 2 Linear Regression
 uid: c846ced6-fc6d-3bc9-64e0-47324e251a98
+video_metadata:
+  youtube_id: null
 ---
 
 *   {{% resource_link e7021f06-ce2f-36d6-b3f8-3d333dfef935 "BackInternet Privacy Poll" %}}
